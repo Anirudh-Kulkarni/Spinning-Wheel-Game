@@ -2,6 +2,8 @@
 
 A fun project that creates a digital version of a Hirst-inspired painting using Python's `turtle` module and the `colorgram` library. The program extracts colors from an image and uses them to draw colorful dots in a grid pattern.
 
+<img src="hirst_painting.png" width="400">
+
 ## Table of Contents
 
 - [Features](#features)
