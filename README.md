@@ -6,7 +6,8 @@ I developed this application as a part of the Udemy course [100 Days of Code: Th
 
 Spin the wheel to randomly select one of five engaging mini-games!
 
-![spin-the-wheel](spin_the_wheel.png)
+<img src="spin_the_wheel.png" width="400">
+
 
 ## Table of Contents
 
