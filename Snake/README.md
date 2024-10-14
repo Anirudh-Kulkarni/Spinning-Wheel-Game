@@ -2,7 +2,7 @@
 
 A simple implementation of the classic Snake game using Python's `turtle` module. The player controls a snake that grows longer by eating food while avoiding collisions with the walls and itself.
 
-![snake-game](snake_game.png)
+<img src="snake_game.png" width="400">
 
 ## Table of Contents
 
