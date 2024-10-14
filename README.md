@@ -1,6 +1,12 @@
 # Spinning Wheel Game
 
-A fun interactive Python program that utilizes Tkinter and Turtle graphics. Spin the wheel to randomly select one of five engaging mini-games!
+A fun interactive Python program that utilizes Tkinter and Turtle graphics. It combines multiple mini-games into a single spinning wheel interface. Users can spin the wheel to select from games like Spirograph, Snake, U.S. States Quiz, Car Racing, and Hirst Painting. Each selection prompts the user for confirmation before launching the respective game. 
+
+I developed this application as a part of the Udemy course [100 Days of Code: The Complete Python Pro Bootcamp](http://www.udemy.com/course/100-days-of-code/). I thank Angela Yu and her team for this excellent course and I would highly recommend it to anyone interested in learning and enhancing their coding skills in Python. 
+
+Spin the wheel to randomly select one of five engaging mini-games!
+
+![spin-the-wheel](spin_the_wheel.png)
 
 ## Table of Contents
 
@@ -12,8 +18,10 @@ A fun interactive Python program that utilizes Tkinter and Turtle graphics. Spin
 
 ## Features
 
-- Spin a wheel to choose from five mini-games.
-- Each mini-game utilizes Tkinter and Turtle graphics for an interactive experience.
+- Interactive spinning wheel that randomly selects a mini-game.
+- Confirmation prompts before launching selected games.
+- Visual representation using the Tkinter library and Turtle graphics for the GUI.
+- Includes a variety of mini-games developed in Python.
 
 ## Installation
 
@@ -28,6 +36,13 @@ A fun interactive Python program that utilizes Tkinter and Turtle graphics. Spin
    pip install -r requirements.txt
 
 4. Run the main program to start the spinning wheel game.
+
+5. Ensure that the following mini-game files are in their respective folders:
+   - `Spirograph` (contains `spirograph.py`)
+   - `Snake` (contains `snake_game.py`)
+   - `Avoid_cars_game` (contains `avoid_cars.py`)
+   - `US_states_game` (contains `states_game.py`)
+   - `Hirst` (contains `hirst_painting.py`)
 
 ## Mini-Games
 
