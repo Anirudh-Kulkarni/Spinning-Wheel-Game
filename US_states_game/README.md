@@ -2,7 +2,7 @@
 
 A fun and educational game that challenges players to name all 50 U.S. states using Python's `turtle` module and `pandas` library. Players are prompted to input state names, and the game visually marks the correct answers on a map.
 
-![states-game(states_game.png)
+<img src="states_game.png" width="400">
 
 ## Table of Contents
 
