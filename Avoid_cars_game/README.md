@@ -2,7 +2,7 @@
 
 A fun and challenging game where players control a character trying to avoid oncoming cars while racing to the finish line. Built using Python's `turtle` module, this game tests reflexes and timing.
 
-![avoid-cars](avoid_cars.png)
+<img src="avoid_cars.png" width="400">
 
 ## Table of Contents
 
